@@ -1,4 +1,58 @@
-## Hi there 👋
+## Hi there I'm Adrial Natanael Liong!👋
+
+## 🛠️ My Tech Stack
+
+### Languages & Scripting
+<p>
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Golang" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
+</p>
+
+### Frontend Development
+<p>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" height="40"/>
+</p>
+
+### Backend Development
+<p>
+    <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" width="40" height="40"/>
+</p>
+
+### Cloud & DevOps
+<p>
+    <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+</p>
+
+### Databases & Monitoring
+<p>
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="40" height="40"/>
+</p>
+
+## 🌱 I’m currently learning:
+* Advanced Kubernetes concepts and monitoring with Prometheus & Grafana.
+* System Design patterns for high-availability services.
+
+## 📫 How to reach me:
+<p>
+    <a href="https://www.linkedin.com/in/adrial-natanael/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/></a>
+    <a href="mailto:adrialnathanael@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="40" height="40"/></a>
+</p>
 
 <!--
 **Not0nline/Not0nline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
